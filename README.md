@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Akhilesh Kumar
+Author - Akhilesh Kumar(NIT Uttarakhand)
